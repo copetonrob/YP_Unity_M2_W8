@@ -10,13 +10,15 @@
 
 Давай начнем с того, что выключим все источники света в сцене.
 
-Стала ли объекты в сцене абсолютно черными? Если нет, то почему? Как сделать сцену полностью черной?
+Стали ли объекты в сцене абсолютно черными? Если нет, то почему? Как сделать сцену полностью черной?
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W8/blob/main/img/SkyLight1.png" width="300"/>
 
 Настрой освещение небом для твоей сцены.
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W8/blob/main/img/SkyLight2.png" width="300"/>
+
+Покрути интенсивность освещения небом, чтобы она хорошо подходила к твоей сцене.
 
 Добавь в сцену разные виды источников света:
 
@@ -52,4 +54,4 @@
 
 Пример сцены с разными источниками света
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W8/blob/main/img/example.png" width="800"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W8/blob/main/img/Example.png" width="800"/>
